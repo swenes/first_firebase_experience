@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743336908697",
+    "project_id": "siber-etik",
+    "storage_bucket": "siber-etik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743336908697:android:5bdf3c4f7948b8cefda508",
+        "android_client_info": {
+          "package_name": "com.example.siber_etik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743336908697-6r2vvnqrucqj6p5pvnfp40jeqooojohc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhN_Krqrc5UYddyb2UOV9Ttd08O1pllG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743336908697-6r2vvnqrucqj6p5pvnfp40jeqooojohc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
